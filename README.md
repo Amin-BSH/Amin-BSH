@@ -12,8 +12,8 @@ I'm Mohammad amin Besharatian. I work as a front-end developer during the day. A
 
 ---
 
-![Static Badge](https://img.shields.io/badge/Telegram-%2326A5E4?style=for-the-badge&logo=Telegram&logoColor=white&link=https%3A%2F%2Ft.me%2FAminbsh%2F)
-
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/amin_b_s_h/?igshid=NTA5ZTk1NTc%3D/)
+[![Telegram](https://img.shields.io/badge/Telegram-%2326A5E4?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/Aminbsh/)
 
 ---
 
