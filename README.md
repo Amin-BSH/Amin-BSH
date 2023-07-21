@@ -2,17 +2,31 @@
 
 I'm Mohammad amin Besharatian. I work as a front-end developer during the day. At night, I switch into my creator mode - spreading knowledge about software development and engineering!
 
-<!--
-**Amin-BSH/Amin-BSH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+⚡️ A quick introduction
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on my own project
+- 🌱 I’m currently learning tailwind and redux
+- 👯 I’m looking to collaborate on front-end project
+
+---
+
+![Static Badge](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https%3A%2F%2Fwww.instagram.com%2Famin_b_s_h%2F%3Figshid%3DNTA5ZTk1NTc%253D)
+![Static Badge](https://img.shields.io/badge/Telegram-%2326A5E4?style=for-the-badge&logo=Telegram&link=https%3A%2F%2Fwa.link%2F6lgp1b)
+
+
+---
+
+<p float="left">
+<img style="padding:5px;" align="center" alt="HTML" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
+<img style="padding:5px;" align="center" alt="CSS" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>
+<img style="padding:5px;" align="center" alt="SASS" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"/>
+<img style="padding:5px;" align="center" alt="Bootstrap" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"/>
+<img style="padding:5px;" align="center" alt="Javascript" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
+<img style="padding:5px;" align="center" alt="NPM" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png"/>
+<img style="padding:5px;" align="center" alt="ReactJs" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/>
+<img style="padding:5px;" align="center" alt="Redux" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"/>
+  
+<!-- and more such images with different URLs in src -->
+</p>
